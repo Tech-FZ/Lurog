@@ -8,5 +8,6 @@
 ## Lurog.NET v0.0.1.1_proto
 
 - Added ILogger interface.
-- Added Logger class inheriting ILogger.
+- Added Logger class inheriting from ILogger.
 - Added an enum with severities.
+- Added ErrorRaisedEventArgs inheriting from EventArgs.
