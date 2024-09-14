@@ -10,4 +10,5 @@
 - Added ILogger interface.
 - Added Logger class inheriting from ILogger.
 - Added an enum with severities.
+	- The "General" enum has been removed.
 - Added ErrorRaisedEventArgs inheriting from EventArgs.

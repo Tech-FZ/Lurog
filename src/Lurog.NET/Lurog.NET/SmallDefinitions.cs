@@ -8,10 +8,9 @@ namespace Lurog.NET
 {
     public enum Severities
     {
-        General,
-        Notice,
-        Warning,
-        Error,
-        Critical
+        Notice, // 0, for general system information
+        Warning, // 1, for depreciated features
+        Error, // 2, for removed features
+        Critical // 3, for severe errors which crash the application
     }
 }
