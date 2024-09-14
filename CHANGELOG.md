@@ -12,3 +12,4 @@
 - Added an enum with severities.
 	- The "General" enum has been removed.
 - Added ErrorRaisedEventArgs inheriting from EventArgs.
+- Changed parametres for ILogger.Log()

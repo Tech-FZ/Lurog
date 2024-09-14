@@ -2,7 +2,7 @@
 {
     public class Logger : ILogger
     {
-        public void Log(int severity, string errCode, string message)
+        public void Log(object sender, ErrorRaisedEventArgs e)
         {
             throw new NotImplementedException();
         }
