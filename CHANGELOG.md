@@ -4,6 +4,7 @@
 
 - Added Readme, Contributors and Changelog
 - Added .gitignore
+- The contributor list has been restructured.
 
 ## Lurog.NET v0.0.1.1_proto
 
