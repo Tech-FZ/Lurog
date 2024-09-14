@@ -13,3 +13,4 @@
 	- The "General" enum has been removed.
 - Added ErrorRaisedEventArgs inheriting from EventArgs.
 - Changed parametres for ILogger.Log()
+- Made a template console log method.
