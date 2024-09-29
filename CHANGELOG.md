@@ -1,3 +1,14 @@
+# Lurog v2024.9.1.2
+
+## Lurog Basidocs v2024.9.29.0
+
+- Changelog updates
+
+## Lurog.NET v0.0.2.2_proto
+
+- Removal of the `virtual` modifier in the console log because we have an interface for that. 😉
+- A file logger is in preparation
+
 # Lurog v2024.9.0.1
 
 ## Lurog Basidocs v2024.9.14.0
