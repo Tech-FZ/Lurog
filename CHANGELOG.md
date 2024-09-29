@@ -8,6 +8,7 @@
 
 - Removal of the `virtual` modifier in the console log because we have an interface for that. 😉
 - A file logger is in preparation
+- The "addargs" had to be introduced.
 
 # Lurog v2024.9.0.1
 
