@@ -8,6 +8,6 @@ namespace Lurog.NET
 {
     public interface ILogger
     {
-        public void Log(object sender, ErrorRaisedEventArgs e);
+        public void Log(object sender, ErrorRaisedEventArgs e, string[,] addargs);
     }
 }

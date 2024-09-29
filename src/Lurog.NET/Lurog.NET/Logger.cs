@@ -7,7 +7,7 @@
          * Deriving classes may include, but aren't limited to: File Loggers, DB Loggers, message box loggers.
          */
 
-        public void Log(object sender, ErrorRaisedEventArgs e)
+        public void Log(object sender, ErrorRaisedEventArgs e, string[,] addargs)
         {
             Console.WriteLine($"Error Code: {e.ErrorCode}");
             Console.WriteLine($"Severity: {e.Severity}");
